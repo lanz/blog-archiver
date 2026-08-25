@@ -11,7 +11,6 @@ I read a lot. I also have a tendency to save things that I find interesting beca
 * Preserves pages and required resources for offline viewing.
 * Keeps each blog in its own archive directory.
 * Shows download progress and saves a `wget.log`.
-* Supports continuing and updating existing archives.
 
 ## Requirements
 
